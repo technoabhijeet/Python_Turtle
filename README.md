@@ -5,6 +5,8 @@ Basic Commands for Turtle in Python
 
 Library From Python Sample
 
+Free and Open Source Tutorial for Python Turtle programmers.
+
 ## Usage
 
 ```python
